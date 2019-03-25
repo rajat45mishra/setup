@@ -12,12 +12,12 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'mypackage'
+NAME = 'turiean'
 DESCRIPTION = 'My short description for my project.'
 URL = 'https://github.com/rajat45mishra/setup.git'
 EMAIL = 'me@example.com'
 AUTHOR = 'Awesome Soul'
-REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=3.7.2'
 VERSION = None
 
 # What packages are required for this module to be executed?
