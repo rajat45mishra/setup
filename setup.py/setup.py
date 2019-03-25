@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'mypackage'
 DESCRIPTION = 'My short description for my project.'
-URL = 'https://github.com/me/myproject'
+URL = 'https://github.com/rajat45mishra/setup.git'
 EMAIL = 'me@example.com'
 AUTHOR = 'Awesome Soul'
 REQUIRES_PYTHON = '>=3.6.0'
